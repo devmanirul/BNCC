@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BNCC</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @keyframes run-right-to-left {
+          0% {
+            transform: translateX(100%);
+          }
+          100% {
+            transform: translateX(-100%);
+          }
+        }
+        .running-heading {
+          animation: run-right-to-left 30s linear infinite;
+        }
+    </style>
+    <style>
+        .slideshow-container {
+          position: relative;
+          max-width: 1000px;
+          margin: auto;
+          overflow: hidden;
+        }
+    
+        .slideshow-img {
+          display: none;
+          max-width: 100%;
+          height: auto;
+          transition: opacity 0.5s ease-in-out;
+        }
+    
+        .slideshow-img.active {
+          display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- header -->
+    <header class="flex flex-row justify-between mx-28 text-[#FCFCFC]">
+        <div class="flex flex-row gap-5">
+            <a href="" class="">
+                <img src="./images/BNCC.png" alt="" class="h-12 my-10">
+            </a>
+            <div class="bg-[#DEE2E6] h-24 w-1 my-2"></div>
+            <div class="flex flex-col mt-5 gap-5">
+                <h2 class="text-2xl font-bold text-[#666666]">Bangladesh National Cadet Corps</h2>
+                <p class="italic text-xl font-medium text-[#666666]">Grooming Future Leaders</p>
+            </div>
+        </div>
+        <div class="">
+            <img src="./images/mojib100.png" alt="" class="my-10">
+        </div>
+    </header>
+    <hr class="mx-28 py-1">
+    <!-- navbar -->
+    <nav class="flex flex-row gap-6 mx-28">
+        <div class="flex flex-row items-center gap-2">
+            <img src="./images/us.png" alt="" class="h-7 w-7 rounded-full">
+            <h3 class="text-[#939393]">English(US)</h3>
+            <img src="./images/down.png" alt="" class="h-3">
+        </div>
+        <a href="" class="bg-[#3498DB] h-10 w-20 rounded-md flex flex-row justify-center items-center gap-2">
+            <h3 class="text-[#184665]">Home</h3>
+        </a>
+        <a href="" class="flex flex-row items-center gap-2">
+            <h3 class="text-[#939393]">Bangabandhu Corner</h3>
+        </a>
+        <a href="" class="flex flex-row items-center gap-2">
+            <h3 class="text-[#939393]">About BNCC</h3>
+            <img src="./images/down.png" alt="" class="h-3">
+        </a>
+        <a href="" class="flex flex-row items-center gap-2">
+            <h3 class="text-[#939393]">Activites</h3>
+            <img src="./images/down.png" alt="" class="h-3">
+        </a>
+        <a href="" class="flex flex-row items-center gap-2">
+            <h3 class="text-[#939393]">Hall of Fame</h3>
+            <img src="./images/down.png" alt="" class="h-3">
+        </a>
+        <a href="" class="flex flex-row items-center gap-2">
+            <h3 class="text-[#939393]">Cadet Corner</h3>
+            <img src="./images/down.png" alt="" class="h-3">
+        </a>
+        <a href="" class="flex flex-row items-center gap-2">
+            <h3 class="text-[#939393]">Notice</h3>
+        </a>
+        <a href="" class="flex flex-row items-center gap-2">
+            <h3 class="text-[#939393]">Registration</h3>
+            <img src="./images/down.png" alt="" class="h-3">
+        </a>
+    </nav>
+    <!-- runing heading bar -->
+    <div class="container mx-auto mt-5">
+        <h1 class="text-xl font-bold text-center text-[#5F5F5F] running-heading">Welcome to Bangaladesh National Cadet Crops</h1>
+    </div>
+    <!-- image change slider -->
+    <div class="">
+        <div class="mt-8">
+            <!-- Images -->
+            <img class="slideshow-img active h-full w-full" src="./images/b5.png" alt="Image 1">
+            <img class="slideshow-img h-full w-full" src="./images/b6.png" alt="Image 2">
+            <img class="slideshow-img h-full w-full" src="./images/b7.png" alt="Image 3">
+            <img class="slideshow-img h-full w-full" src="./images/b9.png" alt="Image 3">
+          </div>
+          <script>
+            const slides = document.querySelectorAll('.slideshow-img');
+            let currentSlide = 0;
+            function nextSlide() {
+              slides[currentSlide].classList.remove('active');
+              currentSlide = (currentSlide + 1) % slides.length;
+              slides[currentSlide].classList.add('active');
+            }
+            setInterval(nextSlide, 3000); // Change slide every 3 seconds
+          </script>
+    </div>
+</body>
+</html>

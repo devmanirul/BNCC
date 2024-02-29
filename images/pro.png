@@ -1,0 +1,1501 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)https://bncc.info/home -->
+<html lang="en-US" data-website-id="1" data-oe-company-name="Bangladesh National Cadet Corps" data-browser="chrome,121.0.0.0" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+            <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="generator" content="Odoo">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+      
+        
+          
+            <meta property="og:type" content="website">
+          
+        
+          
+            <meta property="og:title" content="Home | BNCC">
+          
+        
+          
+            <meta property="og:site_name" content="Bangladesh National Cadet Corps">
+          
+        
+          
+            <meta property="og:url" content="http://bncc.info/home">
+          
+        
+          
+            <meta property="og:image" content="http://bncc.info/web/image/website/1/logo?unique=d47c5da">
+          
+        
+      
+      
+      
+        
+          <meta name="twitter:card" content="summary_large_image">
+        
+          <meta name="twitter:title" content="Home | BNCC">
+        
+          <meta name="twitter:image" content="http://bncc.info/web/image/website/1/logo?unique=d47c5da">
+        
+      
+    
+    
+      
+      
+        <link rel="alternate" hreflang="bn" href="https://bncc.info/bn_IN/">
+      
+        <link rel="alternate" hreflang="en" href="https://bncc.info/">
+      
+        <link rel="alternate" hreflang="x-default" href="https://bncc.info/">
+      
+    
+    <link rel="canonical" href="https://bncc.info/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+  
+        
+
+                <title>
+        Home | 
+        BNCC
+      </title>
+                <link type="image/x-icon" rel="shortcut icon" href="https://bncc.info/web/image/website/1/favicon?unique=d47c5da">
+            <link rel="preload" href="https://bncc.info/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="">
+            <link type="text/css" rel="stylesheet" href="./pro_files/web.assets_common.css" data-asset-xmlid="web.assets_common" data-asset-version="499f26e">
+            <link type="text/css" rel="stylesheet" href="./pro_files/web.assets_frontend.css" data-asset-xmlid="web.assets_frontend" data-asset-version="3c13fa1">
+    
+  
+        
+
+                <script id="web.layout.odooscript" type="text/javascript">
+                    var odoo = {
+                        csrf_token: "3db7989d524390b5ec9f33a77f5cd627035ae228o1740747974",
+                        debug: "",
+                    };
+                </script>
+            <script type="text/javascript">
+                odoo.session_info = {"is_admin": false, "is_system": false, "is_website_user": true, "user_id": false, "is_frontend": true, "translationURL": "/website/translations", "cache_hashes": {"translations": "05071fb879321bf01f941f60fab1f126f565cdad"}};
+                if (!/(^|;\s)tz=/.test(document.cookie)) {
+                    const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    document.cookie = `tz=${userTZ}; path=/`;
+                }
+            </script>
+            <script defer="defer" type="text/javascript" src="./pro_files/web.assets_common_minimal_js.js.download" data-asset-xmlid="web.assets_common_minimal_js" data-asset-version="09f13e5"></script>
+            <script defer="defer" type="text/javascript" src="./pro_files/web.assets_frontend_minimal_js.js.download" data-asset-xmlid="web.assets_frontend_minimal_js" data-asset-version="beccc83"></script>
+            
+        
+    
+            <script defer="defer" type="text/javascript" data-asset-xmlid="web.assets_common_lazy" data-asset-version="ab0af3d" src="./pro_files/web.assets_common_lazy.js.download"></script>
+            <script defer="defer" type="text/javascript" data-asset-xmlid="web.assets_frontend_lazy" data-asset-version="9ab09e5" src="./pro_files/web.assets_frontend_lazy.js.download"></script>
+    
+  
+        
+
+                
+            
+            <noscript id="o_animate-no-js_fallback">
+                <style type="text/css">
+                    .o_animate {
+                        /* If no js - force elements rendering */
+                        visibility:visible;
+
+                        /* If browser support css animations support - reset animation */
+                        -webkit-animation-name: none-dummy;
+                        animation-name: none-dummy;
+                    }
+                </style>
+            </noscript>
+        
+        
+    <script type="text/javascript" src="./pro_files/en_US"></script></head>
+            <body class="" cz-shortcut-listen="true">
+                
+    
+  
+            
+            
+        <div id="wrapwrap" class="o_footer_effect_enable" style="">
+                <header id="top" data-anchor="true" data-name="Header" class=" ">
+                    <nav data-name="Navbar" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc shadow-sm">
+            <div id="top_menu_container" class="container flex-row flex-wrap">
+                
+    <a href="https://bncc.info/" class="navbar-brand logo mr-4">
+            <span role="img" aria-label="Logo of BNCC" title="BNCC"><img src="./pro_files/BNCC" class="img img-fluid" alt="BNCC" loading="lazy"></span>
+        </a>
+    
+                <div class="ml-3 mr-auto">
+                    <div class="oe_structure oe_structure_solo" id="oe_structure_header_slogan_1">
+      <section class="s_text_block o_colored_level" data-snippet="s_text_block" data-name="Text">
+        <div class="container">
+          <blockquote><span style="font-style: normal;"><b><font style="font-size: 18px;">Bangladesh National Cadet Corps</font></b></span><br>&nbsp;<br><b>Grooming Future Leaders</b></blockquote>
+        </div>
+      </section>
+    </div>
+  </div>
+                <ul class="nav navbar-nav navbar-expand ml-auto order-last order-lg-0">
+                    
+                    
+        
+        
+            
+        
+    
+    
+                    <li class="nav-item">
+                        <div class="oe_structure oe_structure_solo" id="oe_structure_header_slogan_2">
+      <p>
+        <img class="img-fluid o_we_custom_image" src="./pro_files/mujib-sotoborso-logo-FE869827AE-seeklogo.com.jpg" alt="" loading="lazy">
+        <br>
+      </p>
+    </div>
+  </li>
+                </ul>
+                <div class="w-100">
+                    <div class="oe_structure oe_structure_solo" id="oe_structure_header_slogan_3">
+      <section class="s_text_block o_colored_level" data-snippet="s_text_block" data-name="Text">
+        <div class="container">
+          <div class="s_hr w-100 pt8 pb8" data-name="Separator">
+            <hr class="w-100 mx-auto" style="border-top-width: 1px; border-top-style: solid; border-color: var(--200);">
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+                
+    <button type="button" data-toggle="collapse" data-target="#top_menu_collapse" class="navbar-toggler ">
+        <span class="navbar-toggler-icon o_not_editable"></span>
+    </button>
+
+                
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        <div class="js_language_selector ml-2 dropdown">
+            <button class="btn btn-sm btn-outline-secondary border-0 dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                
+        
+    <img class="o_lang_flag" src="./pro_files/us.png" loading="lazy">
+
+    <span class="align-middle">English (US)</span>
+            </button>
+            <div class="dropdown-menu" role="menu">
+                
+                    <a class="dropdown-item js_change_lang" href="https://bncc.info/bn_IN/home" data-url_code="bn_IN">
+                        
+        
+    <img class="o_lang_flag" src="./pro_files/in.png" loading="lazy">
+
+    <span> বাংলা</span>
+                    </a>
+                
+                    <a class="dropdown-item js_change_lang" href="https://bncc.info/home" data-url_code="en">
+                        
+        
+    <img class="o_lang_flag" src="./pro_files/us.png" loading="lazy">
+
+    <span>English (US)</span>
+                    </a>
+                
+        
+    
+
+    
+            </div>
+        </div>
+    
+    
+                 <div id="top_menu_collapse" class="collapse navbar-collapse">
+                    
+    
+        <div class="o_offcanvas_menu_backdrop" data-toggle="collapse" data-target="#top_menu_collapse" aria-label="Toggle navigation"></div>
+    <ul id="top_menu" class="nav navbar-nav flex-grow-1 nav-pills">
+        
+        <li class="o_offcanvas_menu_toggler order-first navbar-toggler text-right border-0 o_not_editable">
+            <a href="https://bncc.info/home#top_menu_collapse" class="nav-link px-3" data-toggle="collapse">
+                <span class="fa-2x">×</span>
+            </a>
+        </li>
+    
+                        
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="https://bncc.info/home" class="nav-link active">
+            <span>Home</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="https://bncc.info/bangabandhu-corner" class="nav-link ">
+            <span>Bangabandhu Corner</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    
+    <li class="nav-item dropdown  position-static">
+        <a data-toggle="dropdown" href="https://bncc.info/home#" class="nav-link dropdown-toggle o_mega_menu_toggle">
+            <span>About BNCC</span>
+        </a>
+        <div data-name="Mega Menu" class="dropdown-menu o_mega_menu dropdown-menu-left">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="s_mega_menu_multi_menus py-4 o_colored_level pt0 pb0" data-snippet="s_mega_menu_multi_menus" data-name="Multi-Menus" style="background-color: rgb(255, 255, 255) !important;">
+        <div class="container">
+            <div class="row">
+                
+                
+                
+                
+                
+                    
+                
+                    <div class="py-2 text-center col-lg-7">
+                        
+                        <nav class="nav flex-column"><a href="https://bncc.info/at-a-glance" class="nav-link" data-name="Menu Item" data-original-title="" title="" style="text-align: center;">&nbsp; At a Glance</a><a href="https://bncc.info/history-of-bncc" class="nav-link" data-name="Menu Item" data-original-title="" title="" target="_blank" spellcheck="false">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;History of BNCC</a><a href="https://bncc.info/motto-of-bncc" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip417331" target="_blank">&nbsp; &nbsp; &nbsp; &nbsp;Motto of BNCC</a><a href="https://bncc.info/spirit-of-bncc" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip547202" target="_blank">&nbsp; &nbsp; &nbsp; Spirit of BNCC</a><a href="https://bncc.info/mission" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip480496" target="_blank">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Objective of BNCC</a><a href="https://bncc.info/vision" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip551090" target="_blank">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tasks &amp; Responsibilities</a></nav>
+                    </div>
+                
+                    
+                
+                    
+                
+            </div>
+        </div>
+    </section></div>
+    </li>
+
+                        
+                            
+    
+    
+    <li class="nav-item dropdown  position-static">
+        <a data-toggle="dropdown" href="https://bncc.info/home#" class="nav-link dropdown-toggle o_mega_menu_toggle">
+            <span>Activities</span>
+        </a>
+        <div data-name="Mega Menu" class="dropdown-menu o_mega_menu dropdown-menu-left">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="s_mega_menu_multi_menus py-4 o_colored_level pt0 pb0 undefined" data-name="Multi-Menus" style="background-color: rgb(249, 249, 249) !important;">
+        <div class="container">
+            <div class="row">
+                
+                
+                
+                
+                
+                    
+                
+                    <div class="py-2 text-center col-lg-9">
+                        
+                        <nav class="nav flex-column">
+                            
+                                
+                                
+                                <a href="https://bncc.info/training-activities" class="nav-link" data-name="Menu Item" data-original-title="" title="" target="_blank"></a><a href="https://bncc.info/administrative-activities" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip810651" style="display: inline !important;" spellcheck="false">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Administrative Activities</a>
+                            
+                                
+                                
+                                <p dir="ltr" role="presentation" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;" data-original-title="" title="" aria-describedby="tooltip372402"><a href="https://bncc.info/social-activities" class="nav-link" data-original-title="" title="" aria-describedby="tooltip631037" target="_blank" spellcheck="false">&nbsp; &nbsp; Social Activities</a></p><a href="https://bncc.info/youth-exchange-programme-yep" class="nav-link" data-original-title="" title="" aria-describedby="tooltip631037" style="font-size: 14px;" target="_blank">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Youth Exchange Programme (YEP)</a><a href="https://bncc.info/training-activity" class="nav-link" data-name="Menu Item" data-original-title="" title="" target="_blank" style="">&nbsp; &nbsp; &nbsp; &nbsp; Training Activities</a>
+                            
+                        <a href="https://bncc.info/forum/help-1" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip112178">BNCC Forum</a></nav>
+                    </div>
+                
+                    
+                
+                    
+                
+            </div>
+        </div>
+    </section>
+
+
+
+</div>
+    </li>
+
+                        
+                            
+    
+    
+    <li class="nav-item dropdown  position-static">
+        <a data-toggle="dropdown" href="https://bncc.info/home#" class="nav-link dropdown-toggle o_mega_menu_toggle">
+            <span class="">Hall of Fame</span>
+        </a>
+        <div data-name="Mega Menu" class="dropdown-menu o_mega_menu dropdown-menu-left">
+    
+
+
+
+
+
+
+
+
+
+
+<section class="s_mega_menu_multi_menus py-4 o_colored_level pt0 pb0 undefined bg-white" data-name="Multi-Menus" style="">
+        <div class="container">
+            <div class="row">
+                
+                
+                
+                
+                
+                    <div class="py-2 text-center col-lg-11" style="">
+                        
+                        <nav class="nav flex-column"><a href="https://bncc.info/pioneer" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip46550" spellcheck="false"><font style="" class="text-o-color-3">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font><font style="color: rgb(13, 13, 13);" class="bg-white" data-original-title="" title="" aria-describedby="tooltip417149">Our Pride</font></a><a href="https://bncc.info/hall-of-frame" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip492709" spellcheck="false"><font style="" class="text-o-color-3" data-original-title="" title="" aria-describedby="tooltip541289">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font><font style="" data-original-title="" title="" aria-describedby="tooltip541289" class="text-black">&nbsp;The Architect</font></a></nav>
+                    </div>
+                
+                    
+                
+                    
+                
+                    
+                
+            </div>
+        </div>
+    </section>
+</div>
+    </li>
+
+                        
+                            
+    
+    
+    <li class="nav-item dropdown  position-static">
+        <a data-toggle="dropdown" href="https://bncc.info/home#" class="nav-link dropdown-toggle o_mega_menu_toggle">
+            <span>Cadet Corner</span>
+        </a>
+        <div data-name="Mega Menu" class="dropdown-menu o_mega_menu dropdown-menu-left">
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="s_mega_menu_multi_menus py-4 o_colored_level pb0 pt0 undefined" data-name="Multi-Menus" style="background-color: rgb(255, 255, 255) !important;">
+        <div class="container">
+            <div class="row">
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    <div class="py-2 text-center col-lg-12 pt0 pb4" style="">
+                        
+                        <nav class="nav flex-column"><a href="https://bncc.info/find/cadet" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip894286" style="" spellcheck="false">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cadet Verification</a>
+                            
+                                
+                                
+                                
+                            
+                                
+                                
+                                
+                            
+                                
+                                
+                                
+                            
+                        <a href="https://bncc.info/cadet-recruitment-form" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip843196" target="_blank" spellcheck="false">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Cadet Recruitment Form</a><a href="https://bncc.info/cadet-recruitment-info" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip49872" target="_blank">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Cadet Recruitment Info</a><a href="https://bncc.info/online-class-lessons" class="nav-link" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip973927" spellcheck="false">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Online Class Lessons</a></nav>
+                    </div>
+                
+                    
+                
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+</div>
+    </li>
+
+                        
+                            
+    
+    <li class="nav-item">
+        <a role="menuitem" href="https://bncc.info/notice" class="nav-link ">
+            <span>Notice</span>
+        </a>
+    </li>
+    
+
+                        
+                            
+    
+    
+    <li class="nav-item dropdown  position-static">
+        <a data-toggle="dropdown" href="https://bncc.info/home#" class="nav-link dropdown-toggle o_mega_menu_toggle">
+            <span>Registration</span>
+        </a>
+        <div data-name="Mega Menu" class="dropdown-menu o_mega_menu dropdown-menu-right">
+    
+
+
+
+
+
+
+
+
+
+
+
+<section class="s_mega_menu_multi_menus py-4 o_colored_level pt0 pb4 undefined" data-name="Multi-Menus" style="background-color: rgb(252, 252, 252) !important;">
+        <div class="container">
+            <div class="row">
+                
+                
+                
+                
+                
+                    
+                
+                    <div class="py-2 text-center col-lg-12 pt16 pb32" style="">
+                        
+                        <nav class="nav flex-column"><a href="https://bncc.info/home#Join-BNCC" class="nav-link active" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip348544" spellcheck="false">User Registration</a><a href="https://bncc.info/events" class="nav-link active" data-name="Menu Item" data-original-title="" title="" aria-describedby="tooltip136088" target="_blank" spellcheck="false"> Event Registration</a></nav>
+                    </div>
+                
+                    
+                
+                    
+                
+            </div>
+        </div>
+    </section>
+</div>
+    </li>
+
+                        
+                            
+    
+    
+    
+
+                        
+            
+        
+        
+            
+        
+        <li class="nav-item ml-lg-auto divider d-none"></li> <li class="o_wsale_my_cart d-none nav-item ml-lg-auto">
+            <a href="https://bncc.info/shop/cart" class="nav-link" data-original-title="" title="">
+                <i class="fa fa-shopping-cart"></i>
+                
+                <sup class="my_cart_quantity badge badge-primary" data-order-id="">0</sup>
+            </a>
+        </li>
+    
+            
+        
+        
+            
+        
+        <li class="o_wsale_my_wish d-none nav-item ml-3 o_wsale_my_wish_hide_empty">
+            <a href="https://bncc.info/shop/wishlist" class="nav-link">
+                <i class="fa fa-1x fa-heart"></i>
+                
+                <sup class="my_wish_quantity o_animate_blink badge badge-primary">0</sup>
+            </a>
+        </li>
+    
+        
+        
+                    
+        <li class="o_offcanvas_logo_container order-last navbar-toggler py-4 order-1 mt-auto text-center border-0">
+            <a href="https://bncc.info/" class="o_offcanvas_logo logo">
+            <span role="img" aria-label="Logo of BNCC" title="BNCC"><img src="./pro_files/BNCC" class="img img-fluid" style="max-width: 200px" alt="BNCC" loading="lazy"></span>
+        </a>
+    </li>
+    
+    </ul>
+
+                </div>
+            </div>
+        </nav>
+    </header>
+                <main>
+                    
+            
+        
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_carousel_wrapper" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+        <div id="myCarousel1624282208738" class="s_carousel s_carousel_default carousel slide" data-interval="10000">
+          <ol class="carousel-indicators o_we_no_overlay d-none">
+            <li data-target="#myCarousel1624282208738" data-slide-to="0" class="active"></li>
+          </ol>
+          <a class="carousel-control-prev o_not_editable o_we_no_overlay d-none" href="https://bncc.info/home#myCarousel1624282208738" data-slide="prev" role="img" aria-label="Previous" title="Previous">
+            <span class="carousel-control-prev-icon"></span>
+            <span class="sr-only o_default_snippet_text">Previous</span>
+          </a>
+          <a class="carousel-control-next o_not_editable o_we_no_overlay d-none" href="https://bncc.info/home#myCarousel1624282208738" data-slide="next" role="img" aria-label="Next" title="Next">
+            <span class="carousel-control-next-icon" data-original-title="" title="" aria-describedby="tooltip510768"></span>
+            <span class="sr-only o_default_snippet_text">Next</span>
+          </a>
+        </div>
+      </section>
+      <section class="container mt-5 mb-5 o_colored_level" data-snippet="wk_news_marquee" data-name="News Ticker">
+        <div class="row">
+          <div class="col-md-12 o_colored_level">
+            <div class="d-flex justify-content-between align-items-center breaking-news bg-white">
+              <marquee class="news-scroll" onmouseover="this.stop();" onmouseout="this.start();" scrolldelay="3" behavior="scroll" direction="left" style="background-color:#FFFFFF;font-size:18px;" width="100%" height="5%">
+                <a style="color: #050505 ;margin-right:20px;" class="o_default_snippet_text">Welcome to Bangladesh National Cadet Corps</a>
+              </marquee>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_carousel_wrapper" data-vxml="001" data-snippet="s_carousel" data-name="Carousel" style="">
+        <div id="myCarousel1624322568696" class="s_carousel s_carousel_default carousel slide" data-interval="3000">
+          <ol class="carousel-indicators o_we_no_overlay">
+            <li data-target="#myCarousel1624322568696" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel1624322568696" data-slide-to="1" class=""></li>
+            <li data-target="#myCarousel1624322568696" data-slide-to="2" class=""></li>
+            <li data-target="#myCarousel1624322568696" data-slide-to="3" class=""></li>
+            <li data-target="#myCarousel1624322568696" data-slide-to="4" class=""></li>
+            <li data-target="#myCarousel1624322568696" data-slide-to="5" class=""></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item o_colored_level pb48 pt256 oe_img_bg active" style="position: relative; background-image: url(&quot;/web/image/360394-dd301a24/WhatsApp%20Image%202024-02-07%20at%2012.45.58_94ed2ada.jpg&quot;); min-height: 901.719px;" data-name="Slide" data-original-id="360219" data-original-src="/web/image/360219-17020dee/WhatsApp%20Image%202024-02-07%20at%2012.45.58_94ed2ada.jpg" data-mimetype="image/jpeg" data-resize-width="1920">
+              <div class="container">
+                <div class="row content">
+                  <div class="carousel-content o_colored_level col-lg-11 pb256 pt256" style="">
+                    <h2>
+                      <br>
+                    </h2>
+                    <p class="lead">
+                      <br>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item pt96 pb96 o_colored_level oe_img_bg" style="position: relative; background-image: url(&quot;/web/image/823-c455179f/BB%20Photo%2016-12-19%20%2816%29.jpg&quot;); min-height: 901.719px;" data-name="Slide" data-original-id="532" data-original-src="/web/image/532-8bcd0576/BB%20Photo%2016-12-19%20%2816%29.jpg" data-mimetype="image/jpeg" data-resize-width="1920">
+              <div class="container">
+                <div class="row content">
+                  <div class="carousel-content offset-lg-2 text-center o_colored_level pb256 pt200 col-lg-10">
+                    <p class="lead">
+                      <br>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item pt96 o_colored_level pb0 oe_img_bg" style="position: relative; background-image: url(&quot;/web/image/360396-315a8773/DSC_0185.JPG&quot;); min-height: 901.719px;" data-name="Slide" data-original-id="345540" data-original-src="/web/image/345540-fa5944d0/DSC_0185.JPG" data-mimetype="image/jpeg" data-resize-width="1920">
+              <div class="container">
+                <div class="row content">
+                  <div class="carousel-content text-center o_colored_level pt256 offset-lg-3 col-lg-9 pb256">
+                    <p class="lead">
+                      <br>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item pt96 pb96 o_colored_level oe_img_bg" style="position: relative; background-image: url(&quot;/web/image/345545-311a5bdd/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0%20%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%97%E0%A6%A3%20%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%20%E0%A6%85%E0%A6%82%E0%A6%B6%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3.jpg&quot;); min-height: 901.719px;" data-name="Slide" data-original-id="255512" data-original-src="/web/image/255512-0c4f9180/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0%20%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%97%E0%A6%A3%20%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%20%E0%A6%85%E0%A6%82%E0%A6%B6%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3.jpg" data-mimetype="image/jpeg" data-resize-width="1600">
+              <div class="container">
+                <div class="row content">
+                  <div class="carousel-content offset-lg-2 text-center o_colored_level pb256 col-lg-10 pt168">
+                    <p class="lead">
+                      <br>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item pt128 pb128 o_colored_level o_background_video" style="position: relative; min-height: 901.719px;" data-name="Slide" data-bg-video-src="//www.youtube.com/embed/zt__qRV7IYI?autoplay=1&amp;mute=1&amp;rel=0&amp;loop=1&amp;playlist=zt__qRV7IYI&amp;controls=0&amp;fs=0&amp;modestbranding=1"><div class="o_bg_video_container">
+            
+            <iframe id="o_bg_video_iframe_3" class="o_bg_video_iframe fade show" frameborder="0" src="./pro_files/zt__qRV7IYI.html" style="width: 118.833%; height: 100%; left: -9.41646%; top: 0px;"></iframe>
+        </div>
+              <div class="container">
+                <div class="row content">
+                  <div class="carousel-content col-lg-8 offset-lg-6 py-5 o_colored_level pb120">
+                    <h2>
+                      <font style="font-size: 62px;">&nbsp;</font>
+                    </h2>
+                    <p class="lead">&nbsp;</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item pt128 pb128 o_colored_level oe_img_bg" style="position: relative; background-image: url(&quot;/web/image/360395-40d36df5/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%20%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0%20%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87%20%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%20%E0%A6%93%20%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%AA%20%E0%A6%B9%E0%A6%A4%E0%A7%87%20%E0%A6%86%E0%A6%97%E0%A6%A4%20%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0%20%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%20%E0%A6%9B%E0%A6%AC%E0%A6%BF.JPG&quot;); min-height: 901.719px;" data-name="Slide" data-bg-video-src="//www.youtube.com/embed/zt__qRV7IYI?autoplay=1&amp;mute=1&amp;rel=0&amp;loop=1&amp;playlist=zt__qRV7IYI&amp;controls=0&amp;fs=0&amp;modestbranding=1" data-original-id="345544" data-original-src="/web/image/345544-05b1f0e3/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%20%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0%20%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87%20%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%20%E0%A6%93%20%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%AA%20%E0%A6%B9%E0%A6%A4%E0%A7%87%20%E0%A6%86%E0%A6%97%E0%A6%A4%20%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0%20%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%20%E0%A6%9B%E0%A6%AC%E0%A6%BF.JPG" data-mimetype="image/jpeg" data-resize-width="1920">
+              <div class="container">
+                <div class="row content">
+                  <div class="carousel-content col-lg-8 offset-lg-6 py-5 o_colored_level pb120">
+                    <h2>
+                      <font style="font-size: 62px;">&nbsp;</font>
+                    </h2>
+                    <p class="lead">&nbsp;</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev o_not_editable o_we_no_overlay" href="https://bncc.info/home#myCarousel1624322568696" data-slide="prev" role="img" aria-label="Previous" title="Previous">
+            <span class="carousel-control-prev-icon" data-original-title="" title="" aria-describedby="tooltip553890"></span>
+            <span class="sr-only o_default_snippet_text">Previous</span>
+          </a>
+          <a class="carousel-control-next o_not_editable o_we_no_overlay" href="https://bncc.info/home#myCarousel1624322568696" data-slide="next" role="img" aria-label="Next" title="Next">
+            <span class="carousel-control-next-icon" data-original-title="" title="" aria-describedby="tooltip855762"></span>
+            <span class="sr-only o_default_snippet_text">Next</span>
+          </a>
+        </div>
+      </section>
+      <section class="s_text_image pt32 pb32 o_colored_level" data-snippet="s_image_text" data-name="Image - Text" style="position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Origins/06&quot;,&quot;colors&quot;:{&quot;c3&quot;:&quot;#013B13&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Origins_06" style="background-image: url(&quot;/web_editor/shape/web_editor/Origins/06.svg?c3=%23013B13&quot;); background-color: rgb(149, 29, 29) !important;"></div>
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="pt16 pb16 o_colored_level col-lg-3">
+              <img src="./pro_files/PPP.JPG" class="img img-fluid mx-auto" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip672480" data-original-id="349611" data-original-src="/web/image/349611-666df343/PPP.JPG" data-mimetype="image/jpeg" data-resize-width="480">
+            </div>
+            <div class="o_colored_level col-lg-4 pb0 pt40" style="">
+              <h2>
+                <font style="color: rgb(242, 241, 241);">Brig Gen Md. Mizanur Rahman, ndc, psc</font>
+              </h2>
+              <p>
+                <font class="text-o-color-3" style="font-family: Arial, &quot;sans-serif&quot;; font-size: 18px;">&nbsp;</font>
+                <br>
+              </p>
+              <p>
+                <a href="https://bncc.info/dg" class="mb-2 btn btn-primary" data-original-title="" title="" aria-describedby="tooltip808932" target="_blank">Read More</a>
+              </p>
+            </div>
+            <div class="o_colored_level pt0 pb0 offset-lg-1 col-lg-4">
+              <h2>
+                <font style="color: rgb(245, 244, 244);">HISTORY OF BNCC</font>
+              </h2>
+              <p>
+                <font style="color: rgb(245, 244, 244);">After the establishment of Dhaka University (1921), the Corps initiated its activities under the provisions of the Indian Territorial Forces Act, 1923</font>
+                <br>
+              </p>
+              <p>
+                </p>
+              <div style="text-align: left;">
+                <a href="https://bncc.info/history-of-bncc" class="mb-2 btn btn-primary" data-original-title="" title="" aria-describedby="tooltip62727" target="_blank">
+                  <font style="color: rgb(245, 244, 244);">Read More</font>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_image pt32 pb32 o_colored_level" data-snippet="s_image_text" data-name="Image - Text" style="position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Wavy/08&quot;,&quot;colors&quot;:{&quot;c2&quot;:&quot;#8F0909&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Wavy_08" style="background-image: url(&quot;/web_editor/shape/web_editor/Wavy/08.svg?c2=%238F0909&quot;); background-color: rgba(8, 73, 9, 0.99) !important;"></div>
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="pt16 pb16 o_colored_level col-lg-6">
+              <h2 class="heading4 title-blanck" style="outline: none; list-style-type: none; border: 0px; font-size: 1.3em; font-weight: 600; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; padding: 0px; vertical-align: baseline; transition: all 0.3s linear 0s; color: rgb(113, 113, 113); font-family: &quot;Open Sans&quot;, sans-serif;">
+                <font style="color: rgb(242, 241, 241); font-size: 24px;">OUR PRIDE</font>
+              </h2>
+              <p>
+                <font color="#f2f1f1">A few amongst us created their mark on the world stage by acheiving the uncommon. Meet these inspiring men and women.</font>
+                <br>
+              </p>
+              <p>
+                <a href="https://bncc.info/pioneer" class="mb-2 btn btn-primary" data-original-title="" title="" aria-describedby="tooltip620911">Read More</a>
+              </p>
+            </div>
+            <div class="pt16 pb16 o_colored_level col-lg-6">
+              <h2 class="heading4 title-blanck" style="outline: none; list-style-type: none; border: 0px; font-size: 1.3em; font-weight: 600; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; padding: 0px; vertical-align: baseline; transition: all 0.3s linear 0s; color: rgb(113, 113, 113); font-family: &quot;Open Sans&quot;, sans-serif;">
+                <font style="color: rgb(250, 249, 249); font-size: 24px;">THE ARCHITECT</font>
+              </h2>
+              <p>
+                <font color="#faf9f9">Meet the Architects of BNCC - Leaders who have been instrumental in nurturing the organization and lending it it's present state and structure..</font>
+                <br>
+              </p>
+              <p>
+                <a href="https://bncc.info/hall-of-frame" class="mb-2 btn btn-primary" data-original-title="" title="" aria-describedby="tooltip83947"> Read More </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="o_colored_level pb0 pt0 s_title undefined oe_img_bg" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-position: 0% 43.4988%; background-color: rgba(3, 27, 4, 0.98) !important; background-image: url(&quot;/web/image/358-a3afa181/70afd5096cf07bd75994c64f5c475f86.gif&quot;);">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: center;">
+            <font style="color: rgb(252, 252, 252);">Photo Gallery </font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_image_gallery pt24 o_colored_level o_spc-small o_bg_img_opt_repeat o_nomode pb96" data-vcss="001" data-columns="3" style="overflow: hidden; position: relative;" data-snippet="s_images_wall" data-name="Images Wall" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Blocks/01_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#015E22&quot;,&quot;c3&quot;:&quot;#08622C&quot;,&quot;c5&quot;:&quot;#9F0808&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Blocks_01_001" style="background-image: url(&quot;/web_editor/shape/web_editor/Blocks/01_001.svg?c1=%23015E22&amp;c3=%2308622C&amp;c5=%239F0808&quot;); background-color: rgb(110, 7, 7) !important;"></div>
+        <div class="container">
+          <div class="row s_nb_column_fixed">
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/_MG_5871-00 (40)--.jpg" data-index="0" alt="" data-name="Image" style="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip362090" data-original-id="1298" data-original-src="/web/image/1298-81124bb1/_MG_5871-00%20%2840%29--.jpg" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/DSC_0236.JPG" data-index="1" alt="" data-name="Image" style="transform: translateX(-1.3%) translateY(-4.5%) scaleX(1.02) scaleY(0.91);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip541020" data-original-id="255501" data-original-src="/web/image/255501-10c7ca39/DSC_0236.JPG" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/3PRESS-9 (2)-2.jpg" data-index="2" alt="" data-name="Image" style="transform: translateX(-0.4%) translateY(-6.8%) scaleX(1.05) scaleY(0.85);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip36134" data-original-id="255511" data-original-src="/web/image/255511-94befe0f/3PRESS-9%20%282%29-2.jpg" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/311019729_474061301433040_4203668270254654676_n.jpg" data-index="3" alt="" data-name="Image" style="transform: translateX(-0.8%) translateY(-5%) scaleX(1.01) scaleY(0.89);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip997182" data-original-id="255496" data-original-src="/web/image/255496-88ed5954/311019729_474061301433040_4203668270254654676_n.jpg" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/WhatsApp Image 2024-02-07 at 12.45.58_94ed2ada.jpg" data-index="4" alt="" data-name="Image" style="transform: translateY(0.6%) scaleY(0.97);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip117165">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/DSC_6233.JPG" data-index="7" alt="" data-name="Image" style="transform: translateX(-1.3%) translateY(-0.6%) scaleX(1.01);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip94251" data-original-id="255503" data-original-src="/web/image/255503-eba219a9/DSC_6233.JPG" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/বাংলাদেশ সেনাবাহিনী প্রধানের সাথে ভারত ও মালদ্বীপ হতে আগত এনসিসি টিমের গ্রুপ ছবি.JPG" data-index="8" alt="" data-name="Image" style="transform: translateX(0.4%) scaleX(1.06) scaleY(0.98);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip332028" data-original-id="255499" data-original-src="/web/image/255499-05b1f0e3/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%20%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0%20%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87%20%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%20%E0%A6%93%20%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%AA%20%E0%A6%B9%E0%A6%A4%E0%A7%87%20%E0%A6%86%E0%A6%97%E0%A6%A4%20%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0%20%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%20%E0%A6%9B%E0%A6%AC%E0%A6%BF.JPG" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/বিএনসিসির ক্যাডেটগণ ট্যাংক প্রশিক্ষণে অংশগ্রহণ.jpg" data-index="9" alt="" data-name="Image" style="transform: translateY(-5.6%) scaleY(0.87);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip417753" data-original-id="255512" data-original-src="/web/image/255512-0c4f9180/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0%20%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%97%E0%A6%A3%20%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%20%E0%A6%85%E0%A6%82%E0%A6%B6%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3.jpg" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/wt.JPG" data-index="10" alt="" data-name="Image" style="transform: translateX(1.3%) translateY(2%) scaleX(0.99) scaleY(1.07);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip834011" data-original-id="255502" data-original-src="/web/image/255502-0059bf49/wt.JPG" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/rsz_1picture1.jpg" data-index="11" alt="" data-name="Image" style="" loading="lazy" data-original-id="850" data-original-src="/web/image/850-d3cbb038/rsz_1picture1.jpg" data-mimetype="image/jpeg" data-resize-width="479" data-original-title="" title="" aria-describedby="tooltip953783">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/মেশিনগান প্রশিক্ষণরত বিএনসিসির ক্যাডেটগণ.jpg" data-index="12" alt="" data-name="Image" style="transform: translateX(1.3%) translateY(-6.1%) scaleX(1.06) scaleY(0.91);" loading="lazy" data-original-title="" title="" aria-describedby="tooltip730249" data-original-id="255497" data-original-src="/web/image/255497-ac4b06e5/%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8%E0%A6%97%E0%A6%BE%E0%A6%A8%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A6%B0%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0%20%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A7%87%E0%A6%9F%E0%A6%97%E0%A6%A3.jpg" data-mimetype="image/jpeg" data-resize-width="690">
+            </div>
+            <div class="col-lg-3">
+              <img class="img img-fluid d-block shadow" src="./pro_files/rsz_picture5.png" data-index="13" alt="" data-name="Image" style="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip377042" data-original-id="848" data-original-src="/web/image/848-14745a52/rsz_picture5.png" data-mimetype="image/png" data-resize-width="479">
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pt24 pb8" data-vcss="001" data-snippet="s_title" data-name="Title" style="position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Blobs/02&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#760808&quot;,&quot;c2&quot;:&quot;#760303&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Blobs_02" style="background-image: url(&quot;/web_editor/shape/web_editor/Blobs/02.svg?c1=%23760808&amp;c2=%23760303&quot;); background-color: rgb(25, 64, 6) !important;"></div>
+        <div class="s_allow_columns container">
+          <h1 style="text-align: center;">
+            <font style="color: rgb(245, 244, 244);">Video Gallery</font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_grid_section o_colored_level" data-editor-message="DROP CONTAINER HERE" data-snippet="s_grid_template" data-name="Template" style="position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Blobs/02&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#035D03&quot;,&quot;c2&quot;:&quot;#A70A0A&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Blobs_02" style="background-image: url(&quot;/web_editor/shape/web_editor/Blobs/02.svg?c1=%23035D03&amp;c2=%23A70A0A&quot;); background-color: rgba(114, 21, 2, 0.93) !important;"></div>
+        <div class="s_grid_container container-fluid" data-editor-message="DROP ROWS HERE" data-name="Container">
+          <div class="s_grid_row row" data-editor-message="DROP COLUMNS HERE" data-name="Row">
+            <div class="s_grid_column col o_colored_level oe_structure" data-editor-message="DROP CONTENT HERE" style="" data-name="Column">
+              <div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/83h8dMZ2RWo?autoplay=1&amp;mute=1&amp;rel=0&amp;controls=0">
+                <div class="css_editable_mode_display" data-original-title="" title="" aria-describedby="tooltip977617">&nbsp;</div>
+                <div class="media_iframe_video_size">&nbsp;</div>
+                <iframe src="./pro_files/83h8dMZ2RWo.html" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+              </div>
+            </div>
+            <div class="s_grid_column col o_colored_level content" data-editor-message="DROP CONTENT HERE" data-name="Column">
+              <div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/xfH874qI18M?autoplay=0&amp;rel=0&amp;controls=0">
+                <div class="css_editable_mode_display" data-original-title="" title="" aria-describedby="tooltip34778">&nbsp;</div>
+                <div class="media_iframe_video_size">&nbsp;</div>
+                <iframe src="./pro_files/xfH874qI18M.html" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+              </div>
+            </div>
+            <div class="s_grid_column col o_colored_level content" data-editor-message="DROP CONTENT HERE" data-name="Column">
+              <div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/mcE4_4EAw_E?autoplay=0&amp;rel=0&amp;controls=0">
+                <div class="css_editable_mode_display">&nbsp;</div>
+                <div class="media_iframe_video_size">&nbsp;</div>
+                <iframe src="./pro_files/mcE4_4EAw_E.html" allowfullscreen="allowfullscreen" data-original-title="" title="" aria-describedby="tooltip245032" frameborder="0"></iframe>
+              </div>
+            </div>
+          </div>
+          <div class="s_grid_row row" data-editor-message="DROP COLUMNS HERE" data-name="Row">
+            <div class="s_grid_column col o_colored_level content pt32" data-editor-message="DROP CONTENT HERE" data-name="Column">
+              <div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/okUVIU3uSjU?autoplay=0&amp;rel=0">
+                <div class="css_editable_mode_display" data-original-title="" title="" aria-describedby="tooltip327364">&nbsp;</div>
+                <div class="media_iframe_video_size">&nbsp;</div>
+                <iframe src="./pro_files/okUVIU3uSjU.html" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+              </div>
+              <br>
+            </div>
+            <div class="s_grid_column col o_colored_level pt32 content" data-editor-message="DROP CONTENT HERE" data-name="Column" style="">
+              <div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/-lRAWueG6G8?autoplay=0&amp;rel=0">
+                <div class="css_editable_mode_display">&nbsp;</div>
+                <div class="media_iframe_video_size">&nbsp;</div>
+                <iframe src="./pro_files/-lRAWueG6G8.html" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+              </div>
+            </div>
+            <div class="s_grid_column col content o_colored_level pt32" data-editor-message="DROP CONTENT HERE" data-name="Column">
+              <div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/YDlUlm7GxuQ?autoplay=0&amp;rel=0">
+                <div class="css_editable_mode_display">&nbsp;</div>
+                <div class="media_iframe_video_size">&nbsp;</div>
+                <iframe src="./pro_files/YDlUlm7GxuQ.html" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_comparisons pt32 o_colored_level pb0" data-snippet="s_comparisons" data-name="Comparisons" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Rainy/05_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#9E0E0E&quot;},&quot;flip&quot;:[]}" style="position: relative;">
+        <div class="o_we_shape o_web_editor_Rainy_05_001" style="background-image: url(&quot;/web_editor/shape/web_editor/Rainy/05_001.svg?c1=%239E0E0E&quot;); background-color: rgb(9, 103, 3) !important;"></div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4 s_col_no_bgcolor text-center pt32 pb16" data-name="Box">
+              <div class="card shadow" style="background-color: rgb(81, 76, 76) !important;">
+                <h2 class="title-font-black title-font-bold" style="text-align: center; outline: none; list-style-type: none; border: 0px; font-size: 1.75em; font-weight: 600; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding: 10px 15px; vertical-align: baseline; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; background: rgb(42, 172, 234) !important;">
+                  <font style="background-color: rgb(42, 172, 234); font-size: 18px;">CADETS' CORNER</font>
+                </h2>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/how-to-join-bncc">How To Join BNCC</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/cadets-welfare-society">Cadets Welfare Society</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/benefits-of-bncc">Benefits of BNCC</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/attachments-of-training">Attachments of Training</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/youth-exchange-programme-yep">Youth Exchange Program</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <span style="font-size: 18px;">
+                      <a href="https://bncc.info/find/cadet">Cadet Verification</a>
+                    </span>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/allowances">Allowances</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/uniform-items">Uniform Items</a>
+                    </font>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor text-center pb40 pt32" data-name="Box">
+              <div class="card bg-o-color-5 shadow" style="box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 5px 10px !important;">
+                <h2 class="title-font-black title-font-bold" style="text-align: center; outline: none; list-style-type: none; border: 0px; font-weight: 600; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding: 10px 15px; vertical-align: baseline; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; background: rgb(42, 172, 234) !important;">
+                  <span style="font-size: 18px;">BNCC HQ/REGIMENTS/WINGS</span>
+                </h2>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/bncc-hq" data-original-title="" title="" aria-describedby="tooltip963530">BNCC HQ</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/karnaphuli-regiment" data-original-title="" title="" aria-describedby="tooltip273597"></a>
+                      <a href="http://172.104.160.203:8069/ramna-regiment" data-original-title="" title="" aria-describedby="tooltip963530" style="background-color: rgb(255, 255, 255);">Ramna Regiment</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/moinamati-regiment" data-original-title="" title="" aria-describedby="tooltip662368"></a>
+                      <a href="http://172.104.160.203:8069/karnaphuli-regiment" data-original-title="" title="" aria-describedby="tooltip273597" style="background-color: rgb(255, 255, 255);">Karnaphuli Regiment</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/sundorbon-regiment" data-original-title="" title="" aria-describedby="tooltip169218"></a>
+                      <a href="http://172.104.160.203:8069/moinamati-regiment" data-original-title="" title="" aria-describedby="tooltip662368" style="background-color: rgb(255, 255, 255);">Moinamati Regiment</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">&nbsp;<a href="https://bncc.info/mohasthan-regiment" data-original-title="" title="" aria-describedby="tooltip310180"></a><a href="http://172.104.160.203:8069/sundorbon-regiment" data-original-title="" title="" aria-describedby="tooltip169218" style="background-color: rgb(255, 255, 255);">Sundarban Regiment</a></font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/navy-flotillas" data-original-title="" title="" aria-describedby="tooltip604112"></a>
+                      <a href="http://172.104.160.203:8069/mohasthan-regiment" data-original-title="" title="" aria-describedby="tooltip310180" style="background-color: rgb(255, 255, 255);">Mohasthan Regiment</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/air-squadrons" data-original-title="" title=""></a>
+                      <a href="https://bncc.info/naval-wing" data-original-title="" title="" aria-describedby="tooltip604112" style="background-color: rgb(255, 255, 255);">Navy Wing</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <span style="font-size: 18px;">
+                      <a href="https://bncc.info/head-quarter" data-original-title="" title=""></a>
+                      <a href="https://bncc.info/air-wing" data-original-title="" title="" style="color: rgb(18, 67, 100); background-color: rgb(255, 255, 255);">Air Wing</a>
+                    </span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor text-center pt32 pb16" data-name="Box">
+              <div class="card bg-secondary shadow" style="">
+                <h2 class="title-font-bold title-font-black" style="text-align: center; outline: none; list-style-type: none; border: 0px; font-size: 1.75em; font-weight: 600; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding: 10px 15px; vertical-align: baseline; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; background: rgb(42, 172, 234) !important;">
+                  <font style="font-size: 18px;">POLICIES &amp; GUIDELINES</font>
+                </h2>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">
+                      <a href="https://bncc.info/guidelines-of-bncc">Guidelines of BNCC</a>
+                    </font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;"></font>
+                    <a href="https://bncc.info/policies-regulations">
+                      <font style="font-size: 18px;">Policies &amp; Regulations</font>
+                    </a>
+                    <font style="font-size: 18px;">&nbsp;</font>
+                  </li>
+                  <li class="list-group-item">
+                    <font style="font-size: 18px;">NA</font>
+                  </li>
+                  <li class="list-group-item">
+                    <span style="font-size: 18px;">NA</span>
+                  </li>
+                  <li class="list-group-item">
+                    <span style="font-size: 18px;">NA</span>
+                    <br>
+                  </li>
+                  <li class="list-group-item">
+                    <span style="font-size: 18px;">NA</span>
+                    <br>
+                  </li>
+                  <li class="list-group-item">
+                    <span style="font-size: 18px;">NA</span>
+                    <br>
+                  </li>
+                  <li class="list-group-item">
+                    <span style="font-size: 18px;">NA</span>
+                    <br>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pt0 undefined pb4" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-position: 0% 47.1545%; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Bold/10_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#090C84&quot;,&quot;c4&quot;:&quot;#01B6F3&quot;,&quot;c5&quot;:&quot;#C70E0E&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Bold_10_001" style="background-image: url(&quot;/web_editor/shape/web_editor/Bold/10_001.svg?c1=%23090C84&amp;c4=%2301B6F3&amp;c5=%23C70E0E&quot;); background-color: rgb(5, 180, 255) !important;"></div>
+        <div class="s_allow_columns o_container_small">
+          <h1 style="text-align: center;">
+            <span style="color: rgb(206, 0, 0); font-size: 62px;"> </span>
+            <span style="font-size: 62px;" class="text-white">
+              <b>BNCC STRENGTH</b>
+            </span>
+          </h1>
+        </div>
+      </section>
+      <section class="s_numbers o_cc o_cc2 o_colored_level pt0 pb0" data-snippet="s_numbers" data-name="Numbers">
+        <div class="container">
+          <div class="row">
+            <div class="text-center pt24 pb24 o_colored_level col-lg-2">
+              <span class="s_number display-4">
+                <font style="font-size: 36px;">446</font>
+              </span>
+              <h6>
+                <b>BNCC Officials</b>
+              </h6>
+            </div>
+            <div class="text-center pt24 pb24 o_colored_level col-lg-2">
+              <span class="s_number display-4">
+                <font style="font-size: 36px;">144</font>
+              </span>
+              <h6>
+                <b>BNCCO</b>
+              </h6>
+            </div>
+            <div class="text-center pt24 pb24 o_colored_level col-lg-2">
+              <span class="s_number display-4">
+                <font style="font-size: 36px;">428</font>
+              </span>
+              <h6>
+                <b>PUO</b>
+              </h6>
+            </div>
+            <div class="text-center pt24 pb24 o_colored_level col-lg-2">
+              <span class="s_number display-4">
+                <font style="font-size: 36px;">157</font>
+              </span>
+              <h6>
+                <b>TUO</b>
+              </h6>
+            </div>
+            <div class="text-center pt24 pb24 o_colored_level col-lg-2">
+              <span class="s_number display-4">
+                <font style="font-size: 36px;">23968</font>
+              </span>
+              <h6>
+                <b>BNCC Cadets</b>
+              </h6>
+            </div>
+            <div class="text-center pt24 pb24 o_colored_level col-lg-2">
+              <span class="s_number display-4">
+                <font style="font-size: 36px;">290523</font>
+              </span>
+              <h6>
+                <b>BNCC Ex-Cadets</b>
+              </h6>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="pt64 pb64 o_colored_level o_animate o_anim_pulse" id="teacher" data-snippet="teacher" data-name="Best Teacher" style="position: relative; animation-name: o_anim_pulse; visibility: visible; animation-play-state: paused;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Blocks/02_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#004B1D&quot;,&quot;c3&quot;:&quot;#B60606&quot;,&quot;c5&quot;:&quot;#036708&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Blocks_02_001" style="background-image: url(&quot;/web_editor/shape/web_editor/Blocks/02_001.svg?c1=%23004B1D&amp;c3=%23B60606&amp;c5=%23036708&quot;); background-color: rgba(143, 15, 15, 0.99) !important;"></div>
+        <div class="container"><div class="row"><div class="col-12 col-lg-12 col-md-12 col-sm-12 o_colored_level"><div class="border-left px-3"><h2 class="font-weight-bold text_format"><font style="color: rgb(250, 249, 249);">BNCC Hall of Fame (Our Pride)</font></h2></div></div></div><br><img class="img-fluid o_we_custom_image" src="./pro_files/Gen MAG Osmani.jpg" alt="" loading="lazy" data-original-id="523" data-original-src="/web/image/523-64fe718c/Gen%20MAG%20Osmani.jpg" data-mimetype="image/jpeg" data-original-title="" title="" aria-describedby="tooltip884159">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img class="img-fluid o_we_custom_image" src="./pro_files/Lt Gen M Nuruddin Khan.jpg" alt="" data-original-id="521" data-original-src="/web/image/521-b04ec079/Lt%20Gen%20M%20Nuruddin%20Khan.jpg" data-mimetype="image/jpeg" data-original-title="" title="" aria-describedby="tooltip326131" style="transform: scaleX(0.51) scaleY(0.45);" loading="lazy"><img class="img-fluid o_we_custom_image" src="./pro_files/Lt Col Muhammad  Faruk Khan.png" alt="" data-original-id="522" data-original-src="/web/image/522-129c64b7/Lt%20Col%20Muhammad%20%20Faruk%20Khan.png" data-mimetype="image/png" data-original-title="" title="" aria-describedby="tooltip119801" style="transform: scaleX(0.8) scaleY(0.82);" loading="lazy">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img class="img-fluid o_we_custom_image" src="./pro_files/Sgt Shafi Ahmed Rumi (1).jpg" alt="" data-original-title="" title="" aria-describedby="tooltip426767" data-original-id="1145" data-original-src="/web/image/1145-3d134af5/Sgt%20Shafi%20Ahmed%20Rumi%20%281%29.jpg" data-mimetype="image/jpeg" style="transform: scaleX(0.77) scaleY(0.65);" loading="lazy">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://bncc.info/pioneer" class="btn btn-primary" data-original-title="" title="" aria-describedby="tooltip648628">Find More</a><br></div>
+      </section>
+      <section class="pt64 pb64 o_colored_level o_animate o_anim_pulse" data-snippet="teacher" data-name="Best Teacher" style="position: relative; animation-name: o_anim_pulse; visibility: visible; animation-play-state: paused;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Wavy/06_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#027227&quot;,&quot;c3&quot;:&quot;#930505&quot;,&quot;c5&quot;:&quot;#B40202&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Wavy_06_001" style="background-image: url(&quot;/web_editor/shape/web_editor/Wavy/06_001.svg?c1=%23027227&amp;c3=%23930505&amp;c5=%23B40202&quot;); background-color: rgb(9, 97, 35) !important;"></div>
+        <div class="container"><div class="row"><div class="col-12 col-lg-12 col-md-12 col-sm-12 o_colored_level" style=""><div class="border-left px-3"><h2 class="font-weight-bold text_format"><font style="color: rgb(250, 249, 249); font-size: 48px;">BNCC Hall of Fame (The Architect)</font></h2></div></div></div><br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <img class="img-fluid o_we_custom_image" src="./pro_files/Brig T U Mohammad Iftekharul Basher ( Retd)-29-6-1991 to 8-1-1992.jpg" alt="" loading="lazy">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img class="img-fluid o_we_custom_image" src="./pro_files/rsz_brig_gen_mahmud_hossain-10-3-2010_to_22-8-2010.jpg" alt="" loading="lazy">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img class="img-fluid o_we_custom_image" src="./pro_files/Brig Gen Rejuanul Hoque-28-2-2013 to 01-01-2014.jpg" alt="" data-original-id="780" data-original-src="/web/image/780-6b5945c3/Brig%20Gen%20Rejuanul%20Hoque-28-2-2013%20to%2001-01-2014.jpg" data-mimetype="image/jpeg" data-original-title="" title="" aria-describedby="tooltip93998" style="transform: scaleX(0.77) scaleY(0.72);" loading="lazy">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img class="img-fluid o_we_custom_image" src="./pro_files/rsz_brig_gen_gm_quamrul_islamndcpsc-26-12-2010_to_20-4-2011.jpg" alt="" loading="lazy">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://bncc.info/hall-of-frame" class="btn btn-primary" data-original-title="" title="" aria-describedby="tooltip648628">Find More</a><br></div>
+      </section>
+      <section class="s_process_steps pt24 pb24 o_colored_level" data-snippet="s_process_steps" data-name="Steps" style="position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Wavy/10&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#30E80C&quot;,&quot;c2&quot;:&quot;#C52929&quot;},&quot;flip&quot;:[&quot;y&quot;,&quot;x&quot;]}" id="Join-BNCC" data-anchor="true">
+        <div class="o_we_shape o_web_editor_Wavy_10" style="background-image: url(&quot;/web_editor/shape/web_editor/Wavy/10.svg?c1=%2330E80C&amp;c2=%23C52929&amp;flip=xy&quot;); background-position: 50% 50%; background-color: rgb(13, 92, 4) !important;"></div>
+        <div class="container">
+          <div class="row no-gutters">
+            <div class="s_process_step pt24 pb24 o_colored_level col-lg-5 offset-lg-1">
+              <div class="s_process_step_icon">
+                <span>
+                  </span>
+                <a href="https://bncc.info/admission/apply">
+                  <i class="fa fa-2x fa-user mx-auto rounded-circle" data-original-title="" title="" aria-describedby="tooltip15009" style="background-color: rgb(5, 180, 255);"></i>
+                </a>
+                <span>
+                </span>
+              </div>
+              <div class="s_process_step_content text-center">
+                <h2>
+                  <font style="" class="text-white">Join BNCC</font>
+                </h2>
+                <p>
+                  <font style="" class="text-white">To register as a Cadet/PUO/TUO/BNCCO/Serving Military Officer Kindly use this link.</font>
+                </p>
+              </div>
+            </div>
+            <div class="s_process_step pt24 pb24 o_colored_level col-lg-6" style="">
+              <div class="s_process_step_icon">
+                <span>
+                            </span>
+                <a href="https://bncc.info/web/login" data-original-title="" title="" aria-describedby="tooltip705040">
+                  <i class="fa fa-2x fa-unlock-alt mx-auto rounded-circle text-white" data-original-title="" title="" aria-describedby="tooltip829549" style="background-color: rgb(0, 0, 255);"></i>
+                </a>
+                <span>
+                        </span>
+              </div>
+              <div class="s_process_step_content text-center">
+                <h2>
+                  <font style="" class="text-white">Sign in</font>
+                </h2>
+                <p>
+                  <font style="color: rgb(244, 244, 244);">If you are registered then Sign-in into the Application</font>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="contact" data-snippet="footer" class="o_colored_level" data-name="Footer" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Blocks/01_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#077D28&quot;,&quot;c3&quot;:&quot;#039A21&quot;,&quot;c5&quot;:&quot;#EC0808&quot;},&quot;flip&quot;:[]}" style="position: relative;">
+        <div class="o_we_shape o_web_editor_Blocks_01_001" style="background-image: url(&quot;/web_editor/shape/web_editor/Blocks/01_001.svg?c1=%23077D28&amp;c3=%23039A21&amp;c5=%23EC0808&quot;); background-color: rgb(150, 22, 13) !important;"></div>
+        <div class="container">
+          <div class="row pt64 pb64">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-3 pb16 o_colored_level">
+              <h5 class="font-weight-bold text-white">
+                            ABOUT US
+                        </h5>
+              <p class="border-style"></p>
+              <div class="text-white">
+                <p>Sector#06, Uttara, Dhaka-1230<br></p>
+                <div>
+                  <i class="fa fa-home"></i>
+                  <span></span>
+                  <span>&nbsp;Bangladesh</span>
+                </div>
+                <div class="mt8">
+                  <i class="fa fa-envelope-o"></i>
+                  <span class="footer-link">&nbsp;bncc@bncc.gov.bd</span>
+                </div>
+                <div class="mt8">
+                  <i class="fa fa-phone"></i>
+                  <span>&nbsp;02-48964809</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-md-3 col-lg-2 pb16 o_colored_level">
+              <h5 class="font-weight-bold text-white">
+                            QUICK LINKS
+                        </h5>
+              <p class="border-style"></p>
+              <div class="footer-list">
+                <ul class="list-unstyled">
+                  <li class="footer-link">
+                    <a href="https://bncc.info/home#" class="o_default_snippet_text">Home</a>
+                  </li>
+                  <li class="footer-link"><a href="https://bncc.info/home#" data-original-title="" title="" aria-describedby="tooltip993259"><font style="" class="text-white" data-original-title="" title="" aria-describedby="tooltip57854">About</font></a>&nbsp;<font style="color: rgb(244, 244, 244);">BNCC</font></li>
+                  <li class="footer-link">
+                    <font style="color: rgb(252, 252, 252);">
+                      <a href="https://bncc.info/social-activities">Social Activities</a>
+                    </font>
+                  </li>
+                  <li class="footer-link">
+                    <font style="color: rgb(252, 252, 252);">
+                      <a href="https://bncc.info/training-activity">Training Activities</a>
+                    </font>
+                  </li>
+                  <li class="footer-link">
+                    <font style="color: rgb(252, 252, 252);">Events</font>
+                  </li>
+                  <li class="footer-link">
+                    <font style="color: rgb(252, 252, 252);">Join Us</font>
+                  </li>
+                  <li class="footer-link">
+                    <font style="color: rgb(252, 252, 252);">
+                      <a href="https://www.facebook.com/NationalCadetCorpsBD/" target="_blank">Our Facebook Page</a>
+                    </font>
+                  </li>
+                  <li class="footer-link">
+                    <font style="color: rgb(252, 252, 252);">
+                      <a href="https://youtube.com/channel/UClnmBmZnoo2aIewTrxcTD5A" target="_blank">Our YouTube Channel</a>
+                      <br>
+                      <a href="https://bncc.portal.gov.bd/" target="_blank">BNCC Portal</a>
+                    </font>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-md-6 col-lg-2 pb16 o_colored_level">
+              <h5 class="font-weight-bold text-white">
+                            EXTRA LINKS
+                        </h5>
+              <p class="border-style"></p>
+              <div class="footer-list">
+                <ul class="list-unstyled">
+                  <li class="footer-link">
+                    <a href="https://bncc.info/home#" data-original-title="" title="">Contact Us</a>
+                  </li>
+                  <li class="footer-link"><a href="https://bncc.info/home#" class="o_default_snippet_text">Privacy Policy</a>&nbsp;</li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-md-3 col-lg-2 pb16 o_colored_level">
+              <h5 class="font-weight-bold text-white">
+                <font style="color: rgb(252, 252, 252);">
+                            REGIMENTS</font>
+              </h5>
+              <p class="border-style"></p>
+              <div class="footer-list">
+                <ul class="list-unstyled">
+                  <li class="footer-link">
+                    <a href="https://bncc.info/bncc-hq" data-original-title="" title="" aria-describedby="tooltip264919">Head Quarter</a>
+                  </li>
+                  <li class="footer-link">
+                    <a href="https://bncc.info/ramna-regiment" data-original-title="" title="" aria-describedby="tooltip264919">Ramna Regiment </a>
+                  </li>
+                  <li class="footer-link">
+                    <font style="color: rgb(252, 252, 252);">
+                      <a href="https://bncc.info/karnaphuli-regiment">Karnaphuli Regiment</a>
+                    </font>
+                  </li>
+                  <li class="footer-link">
+                    <a href="https://bncc.info/moinamati-regiment" data-original-title="" title="" aria-describedby="tooltip750095"> Moinamati Regiment </a>
+                  </li>
+                  <li class="footer-link">
+                    <a href="https://bncc.info/sundorbon-regiment" data-original-title="" title="" aria-describedby="tooltip330101"> Sundorbon Regiment </a>
+                  </li>
+                  <li class="footer-link">
+                    <a href="https://bncc.info/mohasthan-regiment" data-original-title="" title="" aria-describedby="tooltip586625"> Mohasthan Regiment </a>
+                  </li>
+                  <li class="footer-link">
+                    <a href="https://bncc.info/naval-wing" data-original-title="" title="" aria-describedby="tooltip586625"> Navy Flotillas </a>
+                  </li>
+                  <li class="footer-link">
+                    <font style="color: rgb(252, 252, 252);">
+                      <a href="https://bncc.info/air-wing">Air Squadrons</a>
+                    </font>
+                  </li>
+                </ul>
+                <p>
+                  <br>
+                </p>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-md-6 col-lg-2 pb16 o_colored_level">
+              <h5 class="font-weight-bold text-white"> GALLERY </h5>
+              <p class="border-style"></p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="footer-copy-rights" class="bg-epsilon o_colored_level" data-snippet="footer" data-name="Footer" style="position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Blocks/01_001&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#036C1D&quot;,&quot;c3&quot;:&quot;#8E0505&quot;,&quot;c5&quot;:&quot;#DB0A0A&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Blocks_01_001" style="background-image: url(&quot;/web_editor/shape/web_editor/Blocks/01_001.svg?c1=%23036C1D&amp;c3=%238E0505&amp;c5=%23DB0A0A&quot;); background-color: rgba(150, 7, 7, 0) !important;"></div>
+        <div class="container">
+          <div class="row text-center">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-4 pt16 o_colored_level">
+              <div class="copyright">
+                <font style="color: rgb(242, 241, 241);">Copyright ©</font>
+                <span itemprop="name">
+                  <font style="color: rgb(242, 241, 241);">Bangladesh National Cadet Corps</font>
+                </span>
+              </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-4 pt16 o_colored_level">
+              <div class="footer-menu">
+                <ul class="list-unstyled list-inline">
+                  <li class="footer-link mr-3 list-inline-item">
+                    <a href="https://bncc.info/home#" data-original-title="" title="">
+                      <font style="color: rgb(250, 249, 249);">Privacy &amp; Policy</font>
+                    </a>
+                  </li>
+                  <li class="footer-link list-inline-item">
+                    <a href="https://bncc.info/home#" data-original-title="" title="" aria-describedby="tooltip229600">
+                      <font style="color: rgb(250, 249, 249);" data-original-title="" title="" aria-describedby="tooltip359456">How to Join BNCC</font>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-4 pt16 o_colored_level">
+              <div class="footer-social">
+                <ul class="list-unstyled list-inline">
+                  <li class="footer-link list-inline-item">
+                    <a class="facebook" href="https://bncc.info/home#">
+                      <i class="fa fa-facebook"></i>
+                    </a>
+                  </li>
+                  <li class="footer-link list-inline-item">
+                    <a class="youtube" href="https://bncc.info/home#">
+                      <i class="fa fa-youtube-play"></i>
+                    </a>
+                  </li>
+                  <li class="footer-link list-inline-item">
+                    <a class="twitter" href="https://bncc.info/home#">
+                      <i class="fa fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li class="footer-link list-inline-item">
+                    <a class="google-plus" href="https://bncc.info/home#">
+                      <i class="fa fa-google-plus"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  
+                </main>
+                <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc  o_footer_slideout">
+                    <div id="footer" class="oe_structure oe_structure_solo" style=""></div>
+  
+        
+    
+                </footer>
+        
+    
+            <div style="width: 1px; height: 1px; margin-top: -1px;"></div></div>
+                
+                    <script>
+                        
+            
+                window.addEventListener('load', function () {
+                    
+
+                    odoo.define('im_livechat.livesupport', function (require) {
+            
+                    });
+                });
+            
+        
+                    </script>
+                
+            
+    
+  
+        
+        
+    
+        
+    
+</body></html>
